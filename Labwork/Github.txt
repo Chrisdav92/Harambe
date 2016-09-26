@@ -1,0 +1,45 @@
+Chris David
+GitHub
+9/26/16
+
+
+
+1. Simply put, having a source code control system in place would advoid alot of issues that come from having multiple persons working on the code. 
+	Having a system like github is a example where having a pull request helps with updating the source code or acopy of it with correct code. Another great point for having a master copy so to say is the ability to always return to the orginal code in case of a error or to simply look back to see what was changed.
+	In terms of different environments we simply see that if mutlpie persons are wokring at differnet points or some cases at different times, having this system in place would help in terms of what has been changed/waiting to be changed.
+2. Watch gives a notification wheater a person has uploaded/changed a file.
+   Star basically a bookmark 
+   Fork essentially creates a copy of that project 
+3. Using Bootstrap, it is esstentially a front-end framework that users use for development for web based applications. It also is a heavily involved community based project.
+4. 14,825 commits.
+Choosing merge pull request: 10 additions with 0 deletions
+
+5. Green for additions while red is for deletions
+
+6.Issues and pull requests differ in that for the issues, it is what users experience/ offer in terms of changing some ui or twerking the way code should be implemented.They also keep track of bugs and tasks
+Pulls are basically changes you have done and allow others to see what you have done.
+They differ in that pulls may beimplemented into the code while issues may not be.
+
+7. Pulses are basically "beats" which are activity that is sorted by active pull requests and active issues
+
+8.https://github.com/Chrisdav92/Harambe/tree/master
+9.
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        modified:   Hello.hs
+10.
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+nothing to commit, working tree clean
+
+11.
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working tree clean
+
+
+
